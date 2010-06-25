@@ -4,10 +4,7 @@ Crockfordize
 This is a bookmarklet which lets you Crockfordize the web one page at a time.
 It accomplishes this by overlaying Mr Crockford's beautiful face on some of the pages other images.
 
-Here is the bookmarklet: [Crockfordize](javascript:(function(){var%20s%20=%20document.createElement('script');%20s.src%20=%20'http://79.99.1.153/Crockfordize/crockfordize.js';%20document.getElementsByTagName('head')[0].appendChild(s);})())
-Drag this to your bookmarks bar and let the Crockfordizing begin!
-
-You can find a demo [here](http://79.99.1.153/Crockfordize/demo.html)
+You can find a demo and a link to the bookmarklet [here](http://79.99.1.153/Crockfordize/demo.html)
 
 This will only work in modern WebKit Browsers like Safari and Chrome.
 
